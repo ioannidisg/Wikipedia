@@ -1,0 +1,427 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="double" />
+  <graph edgedefault="directed">
+    <node id="Graph theory" />
+    <node id="ACM Computing Classification System" />
+    <node id="Algorithm" />
+    <node id="Algorithm design" />
+    <node id="Algorithmic efficiency" />
+    <node id="Analysis of algorithms" />
+    <node id="Application security" />
+    <node id="ArXiv" />
+    <node id="Artificial intelligence" />
+    <node id="Association for Computing Machinery" />
+    <node id="Automata theory" />
+    <node id="Automated planning and scheduling" />
+    <node id="Abstract algebra" />
+    <node id="Abelian group" />
+    <node id="Abraham Fraenkel" />
+    <node id="Abstrakt Algebra" />
+    <node id="Addition" />
+    <node id="Affine space" />
+    <node id="Al-Khwarizmi" />
+    <node id="Algebra" />
+    <node id="Algebra over a field" />
+    <node id="Algebraic equation" />
+    <node id="Algebraic equations" />
+    <node id="Abstract simplicial complex" />
+    <node id="Affine transformation" />
+    <node id="Anders Björner" />
+    <node id="Antichain" />
+    <node id="Bernhard Korte" />
+    <node id="Bijection" />
+    <node id="Cardinality" />
+    <node id="Category (mathematics)" />
+    <node id="Clique (graph theory)" />
+    <node id="Clique complex" />
+    <node id="Colimit" />
+    <node id="Academic Press" />
+    <node id="Academic" />
+    <node id="Academic Studies Press" />
+    <node id="Akademische Verlagsgesellschaft" />
+    <node id="Arabian Travel Market" />
+    <node id="Bepress" />
+    <node id="Biochimica et Biophysica Acta" />
+    <node id="Book" />
+    <node id="Butterworth-Heinemann" />
+    <node id="Cambridge, Massachusetts" />
+    <node id="Adjacency list" />
+    <node id="Adjacency matrix" />
+    <node id="Array data structure" />
+    <node id="Binary search" />
+    <node id="Boost Graph Library" />
+    <node id="Charles E. Leiserson" />
+    <node id="Clifford Stein" />
+    <node id="Computer science" />
+    <node id="DGML" />
+    <node id="DOT (graph description language)" />
+    <node id="David Eppstein" />
+    <node id="(0,1)-matrix" />
+    <node id="Adjugate matrix" />
+    <node id="Algebraic graph theory" />
+    <node id="Alternant matrix" />
+    <node id="Alternating sign matrix" />
+    <node id="Anti-diagonal matrix" />
+    <node id="Arrowhead matrix" />
+    <node id="Augmented matrix" />
+    <node id="Alexandre-Théophile Vandermonde" />
+    <node id="Académie des Sciences" />
+    <node id="Bézout" />
+    <node id="Chemist" />
+    <node id="Combinatorics" />
+    <node id="Conservatoire National des Arts et Métiers" />
+    <node id="Conservatoire national des arts et métiers" />
+    <node id="Cyclotomic polynomial" />
+    <node id="Determinant" />
+    <node id="Edmund F. Robertson" />
+    <node id="Alfred Kempe" />
+    <node id="Alfred John Kempe" />
+    <node id="Algebraic curves" />
+    <node id="Anglican Diocese of London (England)" />
+    <node id="Arthur Cayley" />
+    <node id="Barrister" />
+    <node id="Bencher" />
+    <node id="Chancellor (ecclesiastical)" />
+    <node id="Charles Sanders Peirce" />
+    <node id="Doctor of Canon Law" />
+    <node id="Ecclesiastical law" />
+    <node id="Alfréd Rényi" />
+    <node id="Alfréd Rényi Institute of Mathematics" />
+    <node id="Alfréd Rényi Prize" />
+    <node id="András Prékopa" />
+    <node id="Bernhard Alexander" />
+    <node id="Budapest" />
+    <node id="Budapest Ghetto" />
+    <node id="Chen's theorem" />
+    <node id="Diversity indices" />
+    <node id="Doctoral advisor" />
+    <node id="Abel–Ruffini theorem" />
+    <node id="Al-Jabr" />
+    <node id="Alfred North Whitehead" />
+    <edge source="Graph theory" target="ACM Computing Classification System">
+      <data key="d0">0.18343304097652435</data>
+    </edge>
+    <edge source="Graph theory" target="Abstract algebra">
+      <data key="d0">0.3132043480873108</data>
+    </edge>
+    <edge source="Graph theory" target="Abstract simplicial complex">
+      <data key="d0">0.3358302116394043</data>
+    </edge>
+    <edge source="Graph theory" target="Academic Press">
+      <data key="d0">0.020147690549492836</data>
+    </edge>
+    <edge source="Graph theory" target="Adjacency list">
+      <data key="d0">0.614993691444397</data>
+    </edge>
+    <edge source="Graph theory" target="Adjacency matrix">
+      <data key="d0">0.5555391311645508</data>
+    </edge>
+    <edge source="Graph theory" target="Alexandre-Théophile Vandermonde">
+      <data key="d0">0.23352839052677155</data>
+    </edge>
+    <edge source="Graph theory" target="Alfred Kempe">
+      <data key="d0">0.09724944829940796</data>
+    </edge>
+    <edge source="Graph theory" target="Alfréd Rényi">
+      <data key="d0">0.09234114736318588</data>
+    </edge>
+    <edge source="Graph theory" target="Algebra">
+      <data key="d0">0.31837189197540283</data>
+    </edge>
+    <edge source="ACM Computing Classification System" target="Algorithm">
+      <data key="d0">0.32819023728370667</data>
+    </edge>
+    <edge source="ACM Computing Classification System" target="Algorithm design">
+      <data key="d0">0.32819023728370667</data>
+    </edge>
+    <edge source="ACM Computing Classification System" target="Algorithmic efficiency">
+      <data key="d0">0.21476681530475616</data>
+    </edge>
+    <edge source="ACM Computing Classification System" target="Analysis of algorithms">
+      <data key="d0">0.19936206936836243</data>
+    </edge>
+    <edge source="ACM Computing Classification System" target="Application security">
+      <data key="d0">0.16904844343662262</data>
+    </edge>
+    <edge source="ACM Computing Classification System" target="ArXiv">
+      <data key="d0">0.40910279750823975</data>
+    </edge>
+    <edge source="ACM Computing Classification System" target="Artificial intelligence">
+      <data key="d0">0.3060048222541809</data>
+    </edge>
+    <edge source="ACM Computing Classification System" target="Association for Computing Machinery">
+      <data key="d0">0.6239129304885864</data>
+    </edge>
+    <edge source="ACM Computing Classification System" target="Automata theory">
+      <data key="d0">0.3098408877849579</data>
+    </edge>
+    <edge source="ACM Computing Classification System" target="Automated planning and scheduling">
+      <data key="d0">0.2615623474121094</data>
+    </edge>
+    <edge source="Abstract algebra" target="Abelian group">
+      <data key="d0">0.5652278065681458</data>
+    </edge>
+    <edge source="Abstract algebra" target="Abraham Fraenkel">
+      <data key="d0">0.1834002584218979</data>
+    </edge>
+    <edge source="Abstract algebra" target="Abstrakt Algebra">
+      <data key="d0">0.2522706985473633</data>
+    </edge>
+    <edge source="Abstract algebra" target="Addition">
+      <data key="d0">0.4927572011947632</data>
+    </edge>
+    <edge source="Abstract algebra" target="Affine space">
+      <data key="d0">0.34762507677078247</data>
+    </edge>
+    <edge source="Abstract algebra" target="Al-Khwarizmi">
+      <data key="d0">0.3548640012741089</data>
+    </edge>
+    <edge source="Abstract algebra" target="Algebra">
+      <data key="d0">0.8128757476806641</data>
+    </edge>
+    <edge source="Abstract algebra" target="Algebra over a field">
+      <data key="d0">0.576318085193634</data>
+    </edge>
+    <edge source="Abstract algebra" target="Algebraic equation">
+      <data key="d0">0.4071364998817444</data>
+    </edge>
+    <edge source="Abstract algebra" target="Algebraic equations">
+      <data key="d0">0.4071364998817444</data>
+    </edge>
+    <edge source="Algebra" target="Abelian group">
+      <data key="d0">0.47889527678489685</data>
+    </edge>
+    <edge source="Algebra" target="Abel–Ruffini theorem">
+      <data key="d0">0.36270129680633545</data>
+    </edge>
+    <edge source="Algebra" target="Abstract algebra">
+      <data key="d0">0.8128757476806641</data>
+    </edge>
+    <edge source="Algebra" target="Addition">
+      <data key="d0">0.543142557144165</data>
+    </edge>
+    <edge source="Algebra" target="Affine space">
+      <data key="d0">0.36255791783332825</data>
+    </edge>
+    <edge source="Algebra" target="Al-Jabr">
+      <data key="d0">0.5676884651184082</data>
+    </edge>
+    <edge source="Algebra" target="Al-Khwarizmi">
+      <data key="d0">0.47711870074272156</data>
+    </edge>
+    <edge source="Algebra" target="Alfred North Whitehead">
+      <data key="d0">0.2720096707344055</data>
+    </edge>
+    <edge source="Algebra" target="Algebra over a field">
+      <data key="d0">0.6090264916419983</data>
+    </edge>
+    <edge source="Abstract simplicial complex" target="Affine transformation">
+      <data key="d0">0.18811535835266113</data>
+    </edge>
+    <edge source="Abstract simplicial complex" target="Anders Björner">
+      <data key="d0">0.40163829922676086</data>
+    </edge>
+    <edge source="Abstract simplicial complex" target="Antichain">
+      <data key="d0">0.36936500668525696</data>
+    </edge>
+    <edge source="Abstract simplicial complex" target="Bernhard Korte">
+      <data key="d0">0.23106996715068817</data>
+    </edge>
+    <edge source="Abstract simplicial complex" target="Bijection">
+      <data key="d0">0.2605767250061035</data>
+    </edge>
+    <edge source="Abstract simplicial complex" target="Cardinality">
+      <data key="d0">0.30335718393325806</data>
+    </edge>
+    <edge source="Abstract simplicial complex" target="Category (mathematics)">
+      <data key="d0">0.424361914396286</data>
+    </edge>
+    <edge source="Abstract simplicial complex" target="Clique (graph theory)">
+      <data key="d0">0.3799596428871155</data>
+    </edge>
+    <edge source="Abstract simplicial complex" target="Clique complex">
+      <data key="d0">0.7207825183868408</data>
+    </edge>
+    <edge source="Abstract simplicial complex" target="Colimit">
+      <data key="d0">0.4162306785583496</data>
+    </edge>
+    <edge source="Academic Press" target="Academic">
+      <data key="d0">0.18102198839187622</data>
+    </edge>
+    <edge source="Academic Press" target="Academic Studies Press">
+      <data key="d0">0.5540038347244263</data>
+    </edge>
+    <edge source="Academic Press" target="Akademische Verlagsgesellschaft">
+      <data key="d0">0.5528919100761414</data>
+    </edge>
+    <edge source="Academic Press" target="Arabian Travel Market">
+      <data key="d0">0.11780507117509842</data>
+    </edge>
+    <edge source="Academic Press" target="Bepress">
+      <data key="d0">0.3361148238182068</data>
+    </edge>
+    <edge source="Academic Press" target="Biochimica et Biophysica Acta">
+      <data key="d0">0.5296324491500854</data>
+    </edge>
+    <edge source="Academic Press" target="Book">
+      <data key="d0">0.20964427292346954</data>
+    </edge>
+    <edge source="Academic Press" target="Butterworth-Heinemann">
+      <data key="d0">0.33993804454803467</data>
+    </edge>
+    <edge source="Academic Press" target="Cambridge, Massachusetts">
+      <data key="d0">0.08874362707138062</data>
+    </edge>
+    <edge source="Adjacency list" target="Adjacency matrix">
+      <data key="d0">0.6271836757659912</data>
+    </edge>
+    <edge source="Adjacency list" target="Array data structure">
+      <data key="d0">0.4707498848438263</data>
+    </edge>
+    <edge source="Adjacency list" target="Binary search">
+      <data key="d0">0.21710726618766785</data>
+    </edge>
+    <edge source="Adjacency list" target="Boost Graph Library">
+      <data key="d0">0.17854687571525574</data>
+    </edge>
+    <edge source="Adjacency list" target="Charles E. Leiserson">
+      <data key="d0">0.09925932437181473</data>
+    </edge>
+    <edge source="Adjacency list" target="Clifford Stein">
+      <data key="d0">0.28067243099212646</data>
+    </edge>
+    <edge source="Adjacency list" target="Computer science">
+      <data key="d0">0.33480194211006165</data>
+    </edge>
+    <edge source="Adjacency list" target="DGML">
+      <data key="d0">0.4258979260921478</data>
+    </edge>
+    <edge source="Adjacency list" target="DOT (graph description language)">
+      <data key="d0">0.40969449281692505</data>
+    </edge>
+    <edge source="Adjacency list" target="David Eppstein">
+      <data key="d0">0.3658537268638611</data>
+    </edge>
+    <edge source="Adjacency matrix" target="(0,1)-matrix">
+      <data key="d0">0.4012479782104492</data>
+    </edge>
+    <edge source="Adjacency matrix" target="Adjacency list">
+      <data key="d0">0.6271836757659912</data>
+    </edge>
+    <edge source="Adjacency matrix" target="Adjugate matrix">
+      <data key="d0">0.3531491160392761</data>
+    </edge>
+    <edge source="Adjacency matrix" target="Algebraic graph theory">
+      <data key="d0">0.7081331014633179</data>
+    </edge>
+    <edge source="Adjacency matrix" target="Alternant matrix">
+      <data key="d0">0.27611103653907776</data>
+    </edge>
+    <edge source="Adjacency matrix" target="Alternating sign matrix">
+      <data key="d0">0.4348711371421814</data>
+    </edge>
+    <edge source="Adjacency matrix" target="Anti-diagonal matrix">
+      <data key="d0">0.39625054597854614</data>
+    </edge>
+    <edge source="Adjacency matrix" target="Array data structure">
+      <data key="d0">0.34381675720214844</data>
+    </edge>
+    <edge source="Adjacency matrix" target="Arrowhead matrix">
+      <data key="d0">0.4676571488380432</data>
+    </edge>
+    <edge source="Adjacency matrix" target="Augmented matrix">
+      <data key="d0">0.28838294744491577</data>
+    </edge>
+    <edge source="Alexandre-Théophile Vandermonde" target="Abstract algebra">
+      <data key="d0">0.23873838782310486</data>
+    </edge>
+    <edge source="Alexandre-Théophile Vandermonde" target="Académie des Sciences">
+      <data key="d0">0.32058262825012207</data>
+    </edge>
+    <edge source="Alexandre-Théophile Vandermonde" target="Bézout">
+      <data key="d0">0.6141154766082764</data>
+    </edge>
+    <edge source="Alexandre-Théophile Vandermonde" target="Chemist">
+      <data key="d0">0.22931118309497833</data>
+    </edge>
+    <edge source="Alexandre-Théophile Vandermonde" target="Combinatorics">
+      <data key="d0">0.37567394971847534</data>
+    </edge>
+    <edge source="Alexandre-Théophile Vandermonde" target="Conservatoire National des Arts et Métiers">
+      <data key="d0">0.15686623752117157</data>
+    </edge>
+    <edge source="Alexandre-Théophile Vandermonde" target="Conservatoire national des arts et métiers">
+      <data key="d0">0.15686623752117157</data>
+    </edge>
+    <edge source="Alexandre-Théophile Vandermonde" target="Cyclotomic polynomial">
+      <data key="d0">0.2785274088382721</data>
+    </edge>
+    <edge source="Alexandre-Théophile Vandermonde" target="Determinant">
+      <data key="d0">0.1424289494752884</data>
+    </edge>
+    <edge source="Alexandre-Théophile Vandermonde" target="Edmund F. Robertson">
+      <data key="d0">0.4244721531867981</data>
+    </edge>
+    <edge source="Alfred Kempe" target="Alfred John Kempe">
+      <data key="d0">0.5924991965293884</data>
+    </edge>
+    <edge source="Alfred Kempe" target="Algebraic curves">
+      <data key="d0">0.13921266794204712</data>
+    </edge>
+    <edge source="Alfred Kempe" target="Anglican Diocese of London (England)">
+      <data key="d0">0.32001206278800964</data>
+    </edge>
+    <edge source="Alfred Kempe" target="Arthur Cayley">
+      <data key="d0">0.33832210302352905</data>
+    </edge>
+    <edge source="Alfred Kempe" target="Barrister">
+      <data key="d0">0.13406652212142944</data>
+    </edge>
+    <edge source="Alfred Kempe" target="Bencher">
+      <data key="d0">0.25415757298469543</data>
+    </edge>
+    <edge source="Alfred Kempe" target="Chancellor (ecclesiastical)">
+      <data key="d0">0.2618570327758789</data>
+    </edge>
+    <edge source="Alfred Kempe" target="Charles Sanders Peirce">
+      <data key="d0">0.3075810670852661</data>
+    </edge>
+    <edge source="Alfred Kempe" target="Doctor of Canon Law">
+      <data key="d0">0.29389694333076477</data>
+    </edge>
+    <edge source="Alfred Kempe" target="Ecclesiastical law">
+      <data key="d0">0.22647035121917725</data>
+    </edge>
+    <edge source="Alfréd Rényi" target="Alfréd Rényi Institute of Mathematics">
+      <data key="d0">0.6442334055900574</data>
+    </edge>
+    <edge source="Alfréd Rényi" target="Alfréd Rényi Prize">
+      <data key="d0">0.5936838388442993</data>
+    </edge>
+    <edge source="Alfréd Rényi" target="András Prékopa">
+      <data key="d0">0.4378841519355774</data>
+    </edge>
+    <edge source="Alfréd Rényi" target="Bernhard Alexander">
+      <data key="d0">0.6700351238250732</data>
+    </edge>
+    <edge source="Alfréd Rényi" target="Budapest">
+      <data key="d0">0.28999388217926025</data>
+    </edge>
+    <edge source="Alfréd Rényi" target="Budapest Ghetto">
+      <data key="d0">0.3719710111618042</data>
+    </edge>
+    <edge source="Alfréd Rényi" target="Chen's theorem">
+      <data key="d0">0.29174384474754333</data>
+    </edge>
+    <edge source="Alfréd Rényi" target="Combinatorics">
+      <data key="d0">0.28732770681381226</data>
+    </edge>
+    <edge source="Alfréd Rényi" target="Diversity indices">
+      <data key="d0">0.013917218893766403</data>
+    </edge>
+    <edge source="Alfréd Rényi" target="Doctoral advisor">
+      <data key="d0">0.09915655851364136</data>
+    </edge>
+  </graph>
+</graphml>
